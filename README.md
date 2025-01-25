@@ -26,6 +26,8 @@
  [![Website](https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Fmbilse.github.io&label=Website&down_message=down%20%3A\()](https://mbilse.github.io "Website") 
  [![Stars](https://img.shields.io/github/stars/mbilse?style=flat-square&color=yellow&label=Stars)](https://github.com/mbilse?tab=repositories&sort=stargazers "Stars") 
  [![GitHub followers](https://img.shields.io/github/followers/mbilse?style=flat-square&label=Followers)](https://github.com/lingbopro?tab=followers "GitHub followers")
+ ## 🔍 访问人数 | Visitors 
+ **![Visitor Count](https://profile-counter.glitch.me/mbilse/count.svg)**
 <!--
 **Mbilse/Mbilse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
