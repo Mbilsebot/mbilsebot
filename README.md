@@ -1,5 +1,7 @@
 ## Hi there 👋
+
 ## Mbilse的主页 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=2000&color=77F858&width=435&height=60&lines=Welcome!;Mbilse's+readme;Hello+World!;Nice+to+meet+you!;https%3A%2F%2Fmbilse.github.io%2F)](https://git.io/typing-svg)
 我是一个五年级学生<br />
 欢迎大家加入！
 ```html
