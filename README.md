@@ -20,6 +20,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mbilse)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://github.com/mbilse/mbilse.github.io/)
+[![Profile visits](https://komarev.com/ghpvc/?username=mbilse&style=flat-square)](https://github.com/antonkomarev/github-profile-views-counter "Profile visits") 
+ [![Website](https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Fmbilse.github.io&label=Website&down_message=down%20%3A\()](https://mbilse.github.io "Website") 
+ [![Stars](https://img.shields.io/github/stars/mbilse?style=flat-square&color=yellow&label=Stars)](https://github.com/mbilse?tab=repositories&sort=stargazers "Stars") 
+ [![GitHub followers](https://img.shields.io/github/followers/mbilse?style=flat-square&label=Followers)](https://github.com/lingbopro?tab=followers "GitHub followers")
 <!--
 **Mbilse/Mbilse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
