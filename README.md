@@ -17,6 +17,9 @@
 </body>
 </html>
 ```
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=mbilse/mbilse.github.io,mbilse/mbilse,mbilse/linux-to-wechat&type=Date)](https://star-history.com/#mbilse/mbilse.github.io&mbilse/mbilse&mbilse/linux-to-wechat&Date)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbilse)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mbilse)](https://github.com/anuraghazra/github-readme-stats)
