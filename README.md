@@ -4,6 +4,40 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=2000&color=77F858&width=435&height=60&lines=Welcome!;Mbilse's+readme;Hello+World!;Nice+to+meet+you!;https%3A%2F%2Fmbilse.github.io%2F)](https://git.io/typing-svg)
 我是一个五年级学生<br />
 欢迎大家加入！
+## 这是我的亿些帐号
+<br />
+1. Twitter:
+<br />
+https://twitter.com/mbilse001
+<br />
+2. Github:
+<br />
+https://github.com/mbilse
+<br />
+https://github.com/mbilse-fu
+<br />
+https://github.com/mbilse1
+<br />
+https://github.com/mbilse0
+<br />
+https://github.com/mbilse001
+<br />
+https://github.com/mbilseOS
+<br />
+3. github pages
+<br />
+https://mbilse.github.io/
+<br />
+4. E-mail
+<br />
+mbilse001@outlook.com
+<br />
+mbilse002@outlook.com
+<br />
+mbilse003@outlook.com
+<br />
+mbilse004@outlook.com
+<br />
 ```html
 <!DOCTYPE html>
 <meta charset="UTF-8">
