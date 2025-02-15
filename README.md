@@ -88,6 +88,12 @@ background-color: skyblue;
 </head>
 <body>
 <iframe src="https://mbilse.github.io/"></iframe>
+<button onclick="start" id="start">启动</button>
+<script>
+function start(){
+ window.location.href("https://mbilse.github.io");
+}
+</script>
 </body>
 </html>
 ```
@@ -112,7 +118,7 @@ background-color: skyblue;
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mbilse&repo=mbilse.github.io&theme=one_dark_pro" alt="Card" /> 
    </a>
   <a href="https://github.com/mbilse/mbilse"> 
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mbilse&repo=mbilse.github.io&theme=one_dark_pro" alt="Card" /> 
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mbilse&repo=mbilse&theme=one_dark_pro" alt="Card" /> 
    </a>
  </details>
  
