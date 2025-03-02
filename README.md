@@ -102,7 +102,7 @@ function start(){
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=mbilse/mbilse.github.io,mbilse/mbilse,mbilse/linux-to-wechat&type=Date)](https://star-history.com/#mbilse/mbilse.github.io&mbilse/mbilse&mbilse/linux-to-wechat&Date)
-## github stats
+## Github status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbilse)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mbilse)](https://github.com/anuraghazra/github-readme-stats)
@@ -113,6 +113,9 @@ function start(){
  [![Stars](https://img.shields.io/github/stars/mbilse?style=flat-square&color=yellow&label=Stars)](https://github.com/mbilse?tab=repositories&sort=stargazers "Stars") 
  [![GitHub followers](https://img.shields.io/github/followers/mbilse?style=flat-square&label=Followers)](https://github.com/lingbopro?tab=followers "GitHub followers")
  <details> 
+
+## 活动记录
+
    <summary>Active</summary> 
    <a href="https://github.com/mbilse/mbilse.github.io"> 
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mbilse&repo=mbilse.github.io&theme=one_dark_pro" alt="Card" /> 
