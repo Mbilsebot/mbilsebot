@@ -130,7 +130,9 @@ function start(){
  
  ## 访问者
  
+恭喜本站已经有
  **![Visitor Count](https://profile-counter.glitch.me/mbilse/count.svg)**
+人访问了！加油！！！
 <!--
 **Mbilse/Mbilse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
