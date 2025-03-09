@@ -2,6 +2,8 @@
 
 ## Mbilse的主页 
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=77F858&height=70&section=header"/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=2000&color=77F858&width=435&height=60&lines=Welcome!;Mbilse's+readme;Hello+World!;Nice+to+meet+you!;https%3A%2F%2Fmbilse.github.io%2F)](https://git.io/typing-svg)
 我是一个五年级学生<br />
 欢迎大家加入！
@@ -146,6 +148,8 @@ function start(){
 ## 后记
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=500&color=74FF66EF&width=500&lines=Thank+you+for+visiting!;I'm+waiting+for+you+again.;Have+a+good+day!;That's+OK.)](https://git.io/typing-svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=77F858&height=70&section=footer"/>
 
 
 <!--
