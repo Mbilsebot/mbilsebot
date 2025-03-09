@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 ## Mbilse的主页 
+[![Camo] (https://camo.githubusercontent.com/5f8dc2821cf90fd36ffbe8d53a5f5b6cb3106628b5e43dca4df10657510a03d3/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d383443324330266865696768743d37302673656374696f6e3d666f6f746572)](https://camo.githubusercontent.com/5f8dc2821cf90fd36ffbe8d53a5f5b6cb3106628b5e43dca4df10657510a03d3/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d383443324330266865696768743d37302673656374696f6e3d666f6f746572)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=2000&color=77F858&width=435&height=60&lines=Welcome!;Mbilse's+readme;Hello+World!;Nice+to+meet+you!;https%3A%2F%2Fmbilse.github.io%2F)](https://git.io/typing-svg)
 我是一个五年级学生<br />
 欢迎大家加入！
@@ -145,6 +146,8 @@ function start(){
 ## 后记
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=500&color=74FF66EF&width=500&lines=Thank+you+for+visiting!;I'm+waiting+for+you+again.;Have+a+good+day!;That's+OK.)](https://git.io/typing-svg)
+
+[![Camo] (https://camo.githubusercontent.com/5f8dc2821cf90fd36ffbe8d53a5f5b6cb3106628b5e43dca4df10657510a03d3/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d383443324330266865696768743d37302673656374696f6e3d666f6f746572)](https://camo.githubusercontent.com/5f8dc2821cf90fd36ffbe8d53a5f5b6cb3106628b5e43dca4df10657510a03d3/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d383443324330266865696768743d37302673656374696f6e3d666f6f746572)
 <!--
 **Mbilse/Mbilse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
