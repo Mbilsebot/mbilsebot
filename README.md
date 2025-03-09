@@ -141,6 +141,10 @@ function start(){
 <br />
 
 人访问了！加油！！！
+
+## 后记
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=500&color=74FF66EF&width=500&lines=Thank+you+for+visiting!;I'm+waiting+for+you+again.;Have+a+good+day!;That's+OK.)](https://git.io/typing-svg)
 <!--
 **Mbilse/Mbilse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
