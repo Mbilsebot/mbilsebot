@@ -108,7 +108,9 @@ function start(){
 ## Github status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbilse)](https://github.com/anuraghazra/github-readme-stats)
 
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mbilse&layout=compact&theme=shadow_blue&hide=Other&title_color=84C2C0&bg_color=00000000&text_color=DEDEDE&border_color=00000000">
+      
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mbilse&layout=compact&theme=shadow_blue&hide=Other&title_color=84C2C0&bg_color=00000000&text_color=DEDEDE&border_color=00000000">
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mbilse)](https://github.com/anuraghazra/github-readme-stats)
 
