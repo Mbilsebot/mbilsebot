@@ -27,7 +27,7 @@
 ```
      Scratch
      HTML5
-     CCS 3
+     CSS 3
      JavaScript
      Perl
      C语言
