@@ -5,10 +5,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=77F858&height=70&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=2000&color=77F858&width=435&height=60&lines=Welcome!;Mbilse's+readme;Hello+World!;Nice+to+meet+you!;https%3A%2F%2Fmbilse.github.io%2F)](https://git.io/typing-svg)
-我是一个五年级学生<br />
-<br />原名梅布斯.乔治
+<br />我是一个五年级学生<br />
+原名梅布斯.乔治
 <br />为什么我叫梅布斯乔治，但网名叫Mbilse？
-<br />因为梅布斯=meibusi，缩写mbilse，所以Mbilse
+<br />因为梅布斯=meibusi，缩写mbilse，所以叫Mbilse。
+<br />
+<br />
+您可以给我贡献！
 <br />
 欢迎大家加入！
 
@@ -16,12 +19,15 @@
     
 ##### 注：按照先后顺序是我的会/不会程度!
 
+```
      HTML5
      CCS 3
      JavaScript
      Perl
      C语言
      Shell script
+
+```
 
 ## 这是我的亿些帐号
 <br />
