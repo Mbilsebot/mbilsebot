@@ -217,7 +217,7 @@ function start(){
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=77F858&height=70&section=footer"/>
 
-<h6 style="padding:40px; text-align:center;">Fgtt</h6>
+<h6 style="padding:40px; text-align:center; align-items:center;">© 2025 Mbilse</h6>
 <!--
 **Mbilse/Mbilse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
