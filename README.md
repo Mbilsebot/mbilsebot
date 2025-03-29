@@ -12,6 +12,7 @@
 1. Twitter:
 <br />
 https://twitter.com/mbilse001
+https://twitter.com/mbilse00115880
 <br />
 2. Github:
 <br />
@@ -73,6 +74,10 @@ Rock OS小号
  <br />
  Rock OS海外小号
  <br />
+8. Youtube
+<br />
+https://youtube.com/c/mbilse003
+<br />
  
 ## 我的iframe
 
