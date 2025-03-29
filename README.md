@@ -141,7 +141,7 @@ background-color: skyblue;
 <button onclick="start" id="start">启动</button>
 <script>
 function start(){
- window.location.href("https://mbilse.github.io");
+ window.location.href="https://mbilse.github.io";
 }
 </script>
 </body>
