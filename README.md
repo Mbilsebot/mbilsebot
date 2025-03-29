@@ -25,12 +25,27 @@
 ##### 注：按照先后顺序是我的会/不会程度!
 
 ```
+     Scratch
      HTML5
      CCS 3
      JavaScript
      Perl
      C语言
      Shell script
+
+```
+
+## 我不会的
+    
+##### 注：按照先后顺序是我的会/不会程度!
+
+```
+     Python
+     Java
+     Rust
+     CPL
+     C++
+     XML
 
 ```
 
